@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PrivatePod1'
-  s.version          = '0.1.0'
+  s.version          = '0.2'
   s.summary          = 'A short description of PrivatePod1.'
 
   s.homepage         = 'https://github.com/bachnd2k1/PrivatePod1'
