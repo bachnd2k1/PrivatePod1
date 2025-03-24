@@ -1,0 +1,13 @@
+# Bỏ qua thư mục Pods
+Pods/
+Podfile.lock
+
+# Bỏ qua tệp build và cache của Xcode
+DerivedData/
+.xcworkspace/
+*.xcuserstate
+
+# Bỏ qua tệp cá nhân
+*.swp
+*.swo
+*.DS_Store
