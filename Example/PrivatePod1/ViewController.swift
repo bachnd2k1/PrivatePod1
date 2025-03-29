@@ -10,15 +10,16 @@ import UIKit
 import PrivatePod1
 
 class ViewController: UIViewController {
+    let pod = TestPod1()
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(pod.testFunction())
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
 }
